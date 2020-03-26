@@ -10,10 +10,10 @@ Code is for Extrating data from pdf pages.(Page Layout should be same)
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 ## pdf snap
-![Demo](https://github.com/Zeeshanahmad4/Facebook-Automation-bot-with-Multilogin-and-Proxies/blob/master/MyVideo.gif)
+![Demo](https://github.com/Zeeshanahmad4/NLP-Pdf-Minning-Extracting-text-from-pdf/blob/master/Data/Screen%20Shot%202020-03-26%20at%204.25.13%20PM.png)
 
 ## OutPut Csv
-![Code](https://github.com/Zeeshanahmad4/Facebook-Automation-bot-with-Multilogin-and-Proxies/blob/master/Code_snap.PNG)
+![Code](https://github.com/Zeeshanahmad4/NLP-Pdf-Minning-Extracting-text-from-pdf/blob/master/Data/Screen%20Shot%202020-03-26%20at%204.57.11%20PM.png)
 
 
 
