@@ -4,17 +4,15 @@
   ![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
-Code is for Extrating data from pdf pages.(Page Layout should be same)
+Extrating data from pdf pages
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
-## pdf snap
+## Pdf Snap
 ![Demo](https://github.com/Zeeshanahmad4/NLP-Pdf-Minning-Extracting-text-from-pdf/blob/master/Data/Screen%20Shot%202020-03-26%20at%204.25.13%20PM.png)
 
 ## OutPut Csv
 ![Code](https://github.com/Zeeshanahmad4/NLP-Pdf-Minning-Extracting-text-from-pdf/blob/master/Data/Screen%20Shot%202020-03-26%20at%204.57.11%20PM.png)
-
 
 
 ### Built With
