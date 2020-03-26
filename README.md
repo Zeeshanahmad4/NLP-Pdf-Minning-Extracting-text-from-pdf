@@ -16,9 +16,7 @@ Extrating data from pdf pages
 
 
 ### Built With
-* [Python](https://www.python.org/)
-* [Beautifullsoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-* [request](https://docs.python.org/3/library/urllib.html)
+* [PyPDF2](https://www.python.org/)
 
 <!-- CONTACT -->
 ## Contact me
