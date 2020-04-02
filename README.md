@@ -4,7 +4,7 @@
   ![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
-Extrating data from pdf pages
+Extrating data from pdf pages.
 
 
 <!-- ABOUT THE PROJECT -->
@@ -16,7 +16,8 @@ Extrating data from pdf pages
 
 
 ### Built With
-* [PyPDF2](https://www.python.org/)
+* [python](https://www.python.org/)
+* [PyPDF2](https://pythonhosted.org/PyPDF2/)
 
 <!-- CONTACT -->
 ## Contact me
